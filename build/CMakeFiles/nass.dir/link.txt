@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/nass.dir/src/indexmain/main.cpp.o  -o nass 

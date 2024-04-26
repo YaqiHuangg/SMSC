@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yuki/Desktop/Nass/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/nass.dir/src/indexmain/main.cpp.o -c /home/yuki/Desktop/Nass/src/indexmain/main.cpp",
+  "file": "/home/yuki/Desktop/Nass/src/indexmain/main.cpp"
+}
+]
